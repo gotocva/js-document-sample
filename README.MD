@@ -11,3 +11,5 @@ npm run-script doc
 
 ### Once the above steps are done, open index.html inside out directory.
 
+
+![sample](https://github.com/gotocva/js-document-sample/blob/master/screenshots/sample-doc.png)
